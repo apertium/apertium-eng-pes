@@ -16,4 +16,5 @@
 /apertium-eng-pes.pes-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/eng-nouns.txt -text
 /modes.xml -text
