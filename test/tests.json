@@ -1,0 +1,10 @@
+{
+    "eng-pes": {
+        "input": "eng-pes-input.txt",
+        "mode": "eng-pes"
+    },
+    "pes-eng": {
+        "input": "pes-eng-input.txt",
+        "mode": "pes-eng"
+    }
+}
